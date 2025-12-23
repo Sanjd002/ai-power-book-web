@@ -21,7 +21,7 @@ A web application that enables users to discover books and generate intelligent 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/project-name.git
+  https://github.com/Sanjd002/ai-power-book-web.git
    cd project-name
 
 2. Install PHP dependencies:
